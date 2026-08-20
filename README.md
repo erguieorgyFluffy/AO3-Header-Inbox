@@ -9,7 +9,6 @@ Tampermonkey userscript that adds an **Inbox** link beside your AO3 username and
 * Automatically checks every **5 minutes**.
 * Keeps the previous count visible while updating.
 * Works across AO3 pages without visiting the Inbox.
-* No external services or API keys required.
 
 ## Installation
 
